@@ -1,0 +1,33 @@
+.productImage{
+    width: 100%;
+   
+   
+}
+.singleProduct{
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+.productInfo{
+    padding: 20px;
+}
+.cartInfo{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+.button{
+margin-bottom: 10px;
+display: flex;
+    padding: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(99, 14, 180) ;
+    color: rgb(225, 216, 216);
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    
+}
